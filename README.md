@@ -2,7 +2,7 @@
 
 
 ## Amilka
-
+$A = $L \times L$ 
 ## Paulis
 
 ## Berny
